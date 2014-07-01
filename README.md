@@ -5,6 +5,7 @@ An active list of resources for building a better startup.
 ### Get Started
 * [Panabee](http://www.panabee.com) - Super useful service to find and register for domain names
 * [Incorporation and other tips](http://startuplawyer.com/incorporation/if-i-launched-a-startup-in-2014)
+* [What do people use to get stuff done?](http://usesthis.com)
 
 ### Product
 * [Required reading for product designers ](http://www.robertlenne.com/requiredreading)
@@ -37,11 +38,16 @@ An active list of resources for building a better startup.
 * [Curated resources for everything design](http://oozled.com)
 * http://heydesigner.com/
 * http://webfieldmanual.com
-
+* [Questions I ask when reviewing a design](http://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design)
+* [Stock photos that don't suck](https://news.layervault.com/stories/20663-stock-photos-that-dont-suck)
+* [UI Names](http://uinames.com)
+* http://cssfontstack.com
+* https://placeit.net
 
 ### Usability Testing
 * http://usabilityhub.com
 * http://usertesting.com
+* [How to do a Product Critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638)
 
 ### Development/Engineering
 * [Front-end development process from start to finish](http://vincentp.me/blog/my-front-end-development-process-start-to-finish/)
@@ -53,6 +59,11 @@ An active list of resources for building a better startup.
 * Frontend Tools
   * http://codyhouse.co/
   * [Best Bootstrap templates](http://www.blacktie.co)
+  * http://beta.caniuse.com/
+  * http://builtwith.com
+  * Responsive
+    * http://www.responsinator.com
+    * http://uinames.com
 
 ### Marketing
 * http://www.growtheverywhere.com/the-beginners-guide-to-becoming-a-full-stack-marketer/
@@ -64,6 +75,8 @@ An active list of resources for building a better startup.
 * Social Media:
   * https://buffer.io
   * http://twibble.io
+* Email Marketing
+  * http://reallygoodemails.com
 
 ### Sales
 * [Sales Efficiency Benchmarks](http://tomtunguz.com/magic-numbers)
