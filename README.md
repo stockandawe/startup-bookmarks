@@ -24,6 +24,8 @@ An active list of resources for building a better startup.
 * http://firstround.com/article/The-Simple-Four-Step-Design-Process-for-Building-Product-Customers-Will-Love
 * http://littlebigdetails.com
 * http://goodui.org
+* [52 Weeks of UX](http://52weeksofux.com/)
+* [The best resources for learning iOS design and Xcode](http://designcode.io/learn)
 * http://www.sitebuilderreport.com/websites-101/design-guides/where-the-best-designers-go-to-find-photos-and-graphics
 * http://www.useronboard.com
 * http://useyourinterface.com/
@@ -72,6 +74,7 @@ An active list of resources for building a better startup.
 * Copywriting:
   * http://blog.kissmetrics.com/power-of-mini-stories/
   * [Welcome emails](http://grasshopper.com/blog/how-to-craft-the-perfect-welcome-email-plus-templates/)
+  * [How to fix bad landing page copy](http://unbounce.com/landing-page-examples/10-landing-pages-suffer-from-bad-copy)
 * Social Media:
   * https://buffer.io
   * http://twibble.io
@@ -86,6 +89,7 @@ An active list of resources for building a better startup.
 * http://www.slideshare.net/joshelman/josh-elman-threegrowthhacksgrowconf81413
 * http://brianbalfour.com/post/63581380690/customer-acquisition
 * https://gibbon.co/davidarnoux/growth-hacking-the-mindset-getting-started-tools-t
+* [How to think about net promoter score](https://flightfox.com/business/how-we-measure-customer-happiness)
 
 ### Product Management
 * https://medium.com/the-year-of-the-looking-glass/6c975dede146
