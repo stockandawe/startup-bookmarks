@@ -6,6 +6,7 @@ An active list of resources for building a better startup.
 * [Panabee](http://www.panabee.com) - Super useful service to find and register for domain names
 * [Incorporation and other tips](http://startuplawyer.com/incorporation/if-i-launched-a-startup-in-2014)
 * [What do people use to get stuff done?](http://usesthis.com)
+* [Confirm.io - Find available domains related to your keyword](https://confirm.io)
 
 ### Product
 * [Required reading for product designers ](http://www.robertlenne.com/requiredreading)
@@ -25,10 +26,8 @@ An active list of resources for building a better startup.
 * http://littlebigdetails.com
 * http://goodui.org
 * [52 Weeks of UX](http://52weeksofux.com/)
-* [The best resources for learning iOS design and Xcode](http://designcode.io/learn)
 * http://www.sitebuilderreport.com/websites-101/design-guides/where-the-best-designers-go-to-find-photos-and-graphics
 * http://www.useronboard.com
-* http://useyourinterface.com/
 * http://www.sitebuilderreport.com/blog/where-the-best-designers-go-to-find-photos-and-graphics
 * [Free logo builder from Squarespace](http://www.squarespace.com/logo)
 * [Outdated UX patterns](http://sideproject.io/outdated-ux-patterns/)
@@ -37,6 +36,8 @@ An active list of resources for building a better startup.
 * Inspiration
   * http://usepanda.com
   * http://niice.co
+  * http://app.itize.us
+  * http://useyourinterface.com/
 * [Curated resources for everything design](http://oozled.com)
 * http://heydesigner.com/
 * http://webfieldmanual.com
@@ -60,7 +61,9 @@ An active list of resources for building a better startup.
 * [Tips for new startup CTOs](http://jesseatkinson.org/writing/2014/4/26/tips-for-new-start-up-ctos)
 * Frontend Tools
   * http://codyhouse.co/
-  * [Best Bootstrap templates](http://www.blacktie.co)
+  * Bootstrap Templates
+    * [Best Bootstrap templates](http://www.blacktie.co)
+    * http://startbootstrap.com/
   * http://beta.caniuse.com/
   * http://builtwith.com
   * Responsive
@@ -68,6 +71,7 @@ An active list of resources for building a better startup.
     * http://uinames.com
 
 ### Marketing
+* [Statup Marketing Template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
 * http://www.growtheverywhere.com/the-beginners-guide-to-becoming-a-full-stack-marketer/
 * [How Coin did a massively successful launch](http://danielodio.com/dissecting-coins-massively-successful-product-launch)
 * [Content Marketing](http://www.slideshare.net/randfish/why-content-marketing-fails)
@@ -114,3 +118,13 @@ An active list of resources for building a better startup.
 * http://saasclub.com
 * http://designcode.io
 * [Learn Sketch](http://heydesigner.com/sketchapp)
+* [Gibbon - playlists for learning anything](https://gibbon.co)
+* https://gorails.com/
+* https://onemonth.com
+
+### Communities
+* [Design News](https://news.layervault.com)
+* [Growth Hackers](http://growthhackers.com/)
+* [Inbound Marketing](http://inbound.org/)
+* [The best resources for learning iOS design and Xcode](http://designcode.io/learn)
+
