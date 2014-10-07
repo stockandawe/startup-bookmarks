@@ -4,9 +4,11 @@ An active list of resources for building a better startup.
 
 ### Get Started
 * [Panabee](http://www.panabee.com) - Super useful service to find and register for domain names
+* [Domain name generator](http://impossibility.org)
 * [Incorporation and other tips](http://startuplawyer.com/incorporation/if-i-launched-a-startup-in-2014)
 * [What do people use to get stuff done?](http://usesthis.com)
 * [Confirm.io - Find available domains related to your keyword](https://confirm.io)
+* [How to Start a Startup | YC Class](https://startupclass.co)
 
 ### Product
 * [Required reading for product designers ](http://www.robertlenne.com/requiredreading)
@@ -63,7 +65,7 @@ An active list of resources for building a better startup.
   * http://codyhouse.co/
   * Bootstrap Templates
     * [Best Bootstrap templates](http://www.blacktie.co)
-    * http://startbootstrap.com/
+    * [Free Bootstrap Themes & Templates](http://startbootstrap.com)
   * http://beta.caniuse.com/
   * http://builtwith.com
   * Responsive
@@ -105,6 +107,14 @@ An active list of resources for building a better startup.
 
 ### Team/Leadership
 * http://fullstart.com/knowledge/15-baseline-tech-skills-every-entrepreneur
+* [Get the Most Out of Your Startup's Advisors](http://firstround.com/article/Get-the-Most-Out-of-Your-Startups-Advisors-with-These-7-Tactics)
+* [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
+### Hiring
+* [How to hire and build a remote team](https://zapier.com/blog/how-to-hire-remote-team)
+* [Essay on qualities to look for in a senior technical engineerhttp://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/]
+
+### Legal
+* [Hiring a Startup Lawyer](http://adlervermillion.com/tech-law-link-list-hiring-lawyers/)
 
 ### Personal
 * http://andrewdumont.me/avoiding-burnout
