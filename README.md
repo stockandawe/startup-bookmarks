@@ -3,6 +3,7 @@
 An active list of resources for building a better startup.
 
 ### Get Started
+* [Get Inspired by Ira Glass](http://vimeo.com/24715531)
 * [Panabee](http://www.panabee.com) - Super useful service to find and register for domain names
 * [Domain name generator](http://impossibility.org)
 * [Incorporation and other tips](http://startuplawyer.com/incorporation/if-i-launched-a-startup-in-2014)
@@ -13,6 +14,7 @@ An active list of resources for building a better startup.
 * [When in doubt, bootstrap](http://www.bootstrappers.io/)
 
 ### Product
+* [The best leture on creating & building product, Des Traynor](https://www.youtube.com/watch?v=s7O3_tRB5t4)
 * [Required reading for product designers ](http://www.robertlenne.com/requiredreading)
 * http://scalemybusiness.com/the-ultimate-guide-to-minimum-viable-products/
 * [How to be a great product leader](http://www.slideshare.net/adamnash/be-a-great-product-leader-airbnb-2013)
