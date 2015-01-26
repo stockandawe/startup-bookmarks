@@ -9,11 +9,15 @@ An active list of resources for building a better startup.
 * [What do people use to get stuff done?](http://usesthis.com)
 * [Confirm.io - Find available domains related to your keyword](https://confirm.io)
 * [How to Start a Startup | YC Class](https://startupclass.co)
+* [step-by-step lessons, handcrafted by proven professionals](http://launchthisyear.com)
+* [When in doubt, bootstrap](http://www.bootstrappers.io/)
 
 ### Product
 * [Required reading for product designers ](http://www.robertlenne.com/requiredreading)
 * http://scalemybusiness.com/the-ultimate-guide-to-minimum-viable-products/
 * [How to be a great product leader](http://www.slideshare.net/adamnash/be-a-great-product-leader-airbnb-2013)
+* [Product Audit](http://blog.intercom.io/before-you-plan-your-product-roadmap/)
+* [Collection of untold stories from product people](http://www.sweattheproduct.com/)
 * Product Inspirations
   * http://www.producthunt.co
   * http://betali.st
@@ -21,12 +25,17 @@ An active list of resources for building a better startup.
 ### Fund Raising
 * http://paulgraham.com/fr.html
 * http://www.businessinsider.com/seed-round-pitch-deck-tempate-2013-8?op=1
-* [Pitch Decks for inspiration](http://www.businessinsider.com.au/contently-pitch-deck-2014-1)
+* Pitch Decks for inspiration
+  * http://www.businessinsider.com.au/contently-pitch-deck-2014-1
+  * [Mixpanel's pitch deck](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation)
+* [How to find the right angle investors](http://hunterwalk.com/2015/01/20/the-10x-angel-the-0x-angel/)
 
 ### Design
 * http://firstround.com/article/The-Simple-Four-Step-Design-Process-for-Building-Product-Customers-Will-Love
 * http://littlebigdetails.com
 * http://goodui.org
+* http://petithacks.com/
+* http://emptystat.es/
 * [52 Weeks of UX](http://52weeksofux.com/)
 * http://www.sitebuilderreport.com/websites-101/design-guides/where-the-best-designers-go-to-find-photos-and-graphics
 * http://www.useronboard.com
@@ -48,11 +57,13 @@ An active list of resources for building a better startup.
 * [UI Names](http://uinames.com)
 * http://cssfontstack.com
 * https://placeit.net
+* http://www.gomoodboard.com/
 
 ### Usability Testing
 * http://usabilityhub.com
 * http://usertesting.com
 * [How to do a Product Critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638)
+* [Heuristic Evaluation](http://www.uxcheck.co/)
 
 ### Development/Engineering
 * [Front-end development process from start to finish](http://vincentp.me/blog/my-front-end-development-process-start-to-finish/)
@@ -66,11 +77,14 @@ An active list of resources for building a better startup.
   * Bootstrap Templates
     * [Best Bootstrap templates](http://www.blacktie.co)
     * [Free Bootstrap Themes & Templates](http://startbootstrap.com)
+    * [Tons of Bootstrap themes, etc](http://www.bootbundle.com/)
   * http://beta.caniuse.com/
   * http://builtwith.com
   * Responsive
     * http://www.responsinator.com
     * http://uinames.com
+  * Find all APIs you need - http://apis.io/
+* [Scalable Web App on AWS](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed)
 
 ### Marketing
 * [Statup Marketing Template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
@@ -81,14 +95,17 @@ An active list of resources for building a better startup.
   * http://blog.kissmetrics.com/power-of-mini-stories/
   * [Welcome emails](http://grasshopper.com/blog/how-to-craft-the-perfect-welcome-email-plus-templates/)
   * [How to fix bad landing page copy](http://unbounce.com/landing-page-examples/10-landing-pages-suffer-from-bad-copy)
+* [Referral programs](https://medium.com/@inaherlihy/how-to-optimize-182250e499d7)
 * Social Media:
   * https://buffer.io
   * http://twibble.io
 * Email Marketing
   * http://reallygoodemails.com
+  * https://www.sendwithus.com/resources/guide/
 
 ### Sales
 * [Sales Efficiency Benchmarks](http://tomtunguz.com/magic-numbers)
+* [Ultimate enterprise startup sales guide](http://www.enterprisesales.nyc/)
 
 ### Growth
 * http://blog.yesgraph.com/post/63562259689/first-1000
@@ -101,9 +118,11 @@ An active list of resources for building a better startup.
 * https://medium.com/the-year-of-the-looking-glass/6c975dede146
 * http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/
 
-### Company
+### Company & Culture
+* [10 rules for web startups](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
 * http://www.slideshare.net/Bufferapp/buffer-culture-03
 * http://www.paulgraham.com/growth.html
+* http://justinkan.com/the-founders-guide-to-selling-your-company
 
 ### Team/Leadership
 * http://fullstart.com/knowledge/15-baseline-tech-skills-every-entrepreneur
@@ -112,6 +131,7 @@ An active list of resources for building a better startup.
 ### Hiring
 * [How to hire and build a remote team](https://zapier.com/blog/how-to-hire-remote-team)
 * [Essay on qualities to look for in a senior technical engineerhttp://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/]
+* [Startup Salary & Equity Compensation tool]https://www.wealthfront.com/tools/startup-salary-equity-compensation
 
 ### Legal
 * [Hiring a Startup Lawyer](http://adlervermillion.com/tech-law-link-list-hiring-lawyers/)
