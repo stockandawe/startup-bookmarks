@@ -30,7 +30,7 @@ An active list of resources for building a better startup.
 * Pitch Decks for inspiration
   * http://www.businessinsider.com.au/contently-pitch-deck-2014-1
   * [Mixpanel's pitch deck](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation)
-* [How to find the right angle investors](http://hunterwalk.com/2015/01/20/the-10x-angel-the-0x-angel/)
+* [How to find the right angel investors](http://hunterwalk.com/2015/01/20/the-10x-angel-the-0x-angel/)
 
 ### Design
 * http://firstround.com/article/The-Simple-Four-Step-Design-Process-for-Building-Product-Customers-Will-Love
