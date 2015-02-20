@@ -4,14 +4,18 @@ An active list of resources for building a better startup.
 
 ### Get Started
 * [Get Inspired by Ira Glass](http://vimeo.com/24715531)
-* [Panabee](http://www.panabee.com) - Super useful service to find and register for domain names
-* [Domain name generator](http://impossibility.org)
-* [Incorporation and other tips](http://startuplawyer.com/incorporation/if-i-launched-a-startup-in-2014)
-* [What do people use to get stuff done?](http://usesthis.com)
-* [Confirm.io - Find available domains related to your keyword](https://confirm.io)
-* [How to Start a Startup | YC Class](https://startupclass.co)
-* [step-by-step lessons, handcrafted by proven professionals](http://launchthisyear.com)
-* [When in doubt, bootstrap](http://www.bootstrappers.io/)
+* [All the startup advice you need to get started](http://blog.samaltman.com/startup-advice-briefly)
+* [The ultimate cheat sheet to starting and running your own business](http://www.jamesaltucher.com/2013/08/the-ultimate-cheat-sheet-to-starting-and-running-your-own-business/)
+* Tools/Tactics to getting started:
+  * [Panabee](http://www.panabee.com) - Super useful service to find and register for domain names
+  * [Domain name generator](http://impossibility.org)
+  * [Incorporation and other tips](http://startuplawyer.com/incorporation/if-i-launched-a-startup-in-2014)
+  * [What do people use to get stuff done?](http://usesthis.com)
+  * [Confirm.io - Find available domains related to your keyword](https://confirm.io)
+  * [How to Start a Startup | YC Class](https://startupclass.co)
+  * [step-by-step lessons, handcrafted by proven professionals](http://launchthisyear.com)
+  * [When in doubt, bootstrap](http://www.bootstrappers.io/)
+  * [300 free things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b)
 
 ### Product
 * [The best leture on creating & building product, Des Traynor](https://www.youtube.com/watch?v=s7O3_tRB5t4)
@@ -20,6 +24,10 @@ An active list of resources for building a better startup.
 * [How to be a great product leader](http://www.slideshare.net/adamnash/be-a-great-product-leader-airbnb-2013)
 * [Product Audit](http://blog.intercom.io/before-you-plan-your-product-roadmap/)
 * [Collection of untold stories from product people](http://www.sweattheproduct.com/)
+* [Before your plan your product roadmap](http://blog.intercom.io/before-you-plan-your-product-roadmap/)
+* [Lessons learned from scaling a product team](http://blog.intercom.io/how-we-build-software/)
+* [Simple equation to figure out what to build next](http://blog.geoffralston.com/startup-priorities)
+* [What good product leadership means](https://medium.com/@suthakamal/hiring-a-great-product-leader-12365570c974)
 * Product Inspirations
   * http://www.producthunt.co
   * http://betali.st
@@ -159,4 +167,3 @@ An active list of resources for building a better startup.
 * [Growth Hackers](http://growthhackers.com/)
 * [Inbound Marketing](http://inbound.org/)
 * [The best resources for learning iOS design and Xcode](http://designcode.io/learn)
-
