@@ -16,6 +16,7 @@ An active list of resources for building a better startup.
   * [step-by-step lessons, handcrafted by proven professionals](http://launchthisyear.com)
   * [When in doubt, bootstrap](http://www.bootstrappers.io/)
   * [300 free things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b)
+  * [Code4Startup - learn how to build simple/useful things for your startup idea](https://code4startup.com)
 
 ### Product
 * [The best leture on creating & building product, Des Traynor](https://www.youtube.com/watch?v=s7O3_tRB5t4)
@@ -83,11 +84,13 @@ An active list of resources for building a better startup.
 * http://ember.vicramon.com/introduction
 * [Tips for new startup CTOs](http://jesseatkinson.org/writing/2014/4/26/tips-for-new-start-up-ctos)
 * Frontend Tools
+  * [Free responsive HTML5 templages](http://html5up.net/)
   * http://codyhouse.co/
   * Bootstrap Templates
     * [Best Bootstrap templates](http://www.blacktie.co)
     * [Free Bootstrap Themes & Templates](http://startbootstrap.com)
     * [Tons of Bootstrap themes, etc](http://www.bootbundle.com/)
+    * [Bootstrap Zero](http://bootstrapzero.com/)
   * http://beta.caniuse.com/
   * http://builtwith.com
   * Responsive
@@ -138,10 +141,11 @@ An active list of resources for building a better startup.
 * http://fullstart.com/knowledge/15-baseline-tech-skills-every-entrepreneur
 * [Get the Most Out of Your Startup's Advisors](http://firstround.com/article/Get-the-Most-Out-of-Your-Startups-Advisors-with-These-7-Tactics)
 * [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
+
 ### Hiring
 * [How to hire and build a remote team](https://zapier.com/blog/how-to-hire-remote-team)
-* [Essay on qualities to look for in a senior technical engineerhttp://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/]
-* [Startup Salary & Equity Compensation tool]https://www.wealthfront.com/tools/startup-salary-equity-compensation
+* [Essay on qualities to look for in a senior technical engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+* [Startup Salary & Equity Compensation tool](https://www.wealthfront.com/tools/startup-salary-equity-compensation)
 
 ### Legal
 * [Hiring a Startup Lawyer](http://adlervermillion.com/tech-law-link-list-hiring-lawyers/)
@@ -167,3 +171,6 @@ An active list of resources for building a better startup.
 * [Growth Hackers](http://growthhackers.com/)
 * [Inbound Marketing](http://inbound.org/)
 * [The best resources for learning iOS design and Xcode](http://designcode.io/learn)
+
+### Continued Education
+* [Must Listen Startup Podcasts](https://blog.jixee.me/19-must-listen-startup-podcasts/)
