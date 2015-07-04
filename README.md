@@ -7,6 +7,7 @@ An active list of resources for building a better startup.
 * [All the startup advice you need to get started](http://blog.samaltman.com/startup-advice-briefly)
 * [The ultimate cheat sheet to starting and running your own business](http://www.jamesaltucher.com/2013/08/the-ultimate-cheat-sheet-to-starting-and-running-your-own-business/)
 * Tools/Tactics to getting started:
+  * [Silicon Valley 101](https://medium.com/@Tradecraft/silicon-valley-101-24346f95fd1a)
   * [Panabee](http://www.panabee.com) - Super useful service to find and register for domain names
   * [Domain name generator](http://impossibility.org)
   * [Incorporation and other tips](http://startuplawyer.com/incorporation/if-i-launched-a-startup-in-2014)
@@ -19,9 +20,9 @@ An active list of resources for building a better startup.
   * [Code4Startup - learn how to build simple/useful things for your startup idea](https://code4startup.com)
 
 ### Product
+* [The Obvious, the Easy, and the Possible](https://signalvnoise.com/posts/3047-the-obvious-the-easy-and-the-possible)
 * [The best leture on creating & building product, Des Traynor](https://www.youtube.com/watch?v=s7O3_tRB5t4)
 * [Required reading for product designers ](http://www.robertlenne.com/requiredreading)
-* http://scalemybusiness.com/the-ultimate-guide-to-minimum-viable-products/
 * [How to be a great product leader](http://www.slideshare.net/adamnash/be-a-great-product-leader-airbnb-2013)
 * [Product Audit](http://blog.intercom.io/before-you-plan-your-product-roadmap/)
 * [Collection of untold stories from product people](http://www.sweattheproduct.com/)
@@ -29,8 +30,9 @@ An active list of resources for building a better startup.
 * [Lessons learned from scaling a product team](http://blog.intercom.io/how-we-build-software/)
 * [Simple equation to figure out what to build next](http://blog.geoffralston.com/startup-priorities)
 * [What good product leadership means](https://medium.com/@suthakamal/hiring-a-great-product-leader-12365570c974)
+* [Thoughtbot Playbook on Creating Products](https://playbook.thoughtbot.com/)
 * Product Inspirations
-  * http://www.producthunt.co
+  * http://www.producthunt.com
   * http://betali.st
 
 ### Fund Raising
@@ -40,6 +42,7 @@ An active list of resources for building a better startup.
   * http://www.businessinsider.com.au/contently-pitch-deck-2014-1
   * [Mixpanel's pitch deck](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation)
 * [How to find the right angel investors](http://hunterwalk.com/2015/01/20/the-10x-angel-the-0x-angel/)
+* [To bootstrap or not?](http://techcrunch.com/2015/06/24/to-bootstrap-or-not/)
 
 ### Design
 * http://firstround.com/article/The-Simple-Four-Step-Design-Process-for-Building-Product-Customers-Will-Love
@@ -146,6 +149,7 @@ An active list of resources for building a better startup.
 * [How to hire and build a remote team](https://zapier.com/blog/how-to-hire-remote-team)
 * [Essay on qualities to look for in a senior technical engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [Startup Salary & Equity Compensation tool](https://www.wealthfront.com/tools/startup-salary-equity-compensation)
+* [A system for startup compensation](http://firstround.com/review/A-Counterintuitive-System-for-Startup-Compensation/)
 
 ### Legal
 * [Hiring a Startup Lawyer](http://adlervermillion.com/tech-law-link-list-hiring-lawyers/)
