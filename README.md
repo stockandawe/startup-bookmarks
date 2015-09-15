@@ -20,8 +20,9 @@ An active list of resources for building a better startup.
   * [Code4Startup - learn how to build simple/useful things for your startup idea](https://code4startup.com)
 
 ### Product
+* [Million Dollar Products](http://warpspire.com/posts/million-dollar-products/)
 * [The Obvious, the Easy, and the Possible](https://signalvnoise.com/posts/3047-the-obvious-the-easy-and-the-possible)
-* [The best leture on creating & building product, Des Traynor](https://www.youtube.com/watch?v=s7O3_tRB5t4)
+* [The best lecture on creating & building product, Des Traynor](https://www.youtube.com/watch?v=s7O3_tRB5t4)
 * [Required reading for product designers ](http://www.robertlenne.com/requiredreading)
 * [How to be a great product leader](http://www.slideshare.net/adamnash/be-a-great-product-leader-airbnb-2013)
 * [Product Audit](http://blog.intercom.io/before-you-plan-your-product-roadmap/)
@@ -139,13 +140,15 @@ An active list of resources for building a better startup.
 ### Product Management
 * https://medium.com/the-year-of-the-looking-glass/6c975dede146
 * http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/
-* [Good Product Manager/Bad Product Manager]http://a16z.com/2012/06/15/good-product-managerbad-product-manager/
+* [Good Product Manager/Bad Product Manager](http://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
+* [How to not suck at managing products](https://medium.com/art-of-product-design/how-to-not-suck-at-making-products-1ca875fe98a0)
 
 ### Company & Culture
 * [10 rules for web startups](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
 * http://www.slideshare.net/Bufferapp/buffer-culture-03
 * http://www.paulgraham.com/growth.html
 * http://justinkan.com/the-founders-guide-to-selling-your-company
+* [Five years, building a culture, and handing it off](https://medium.com/@kellan/five-years-building-a-culture-and-handing-it-off-54a38c3ab8de)
 
 ### Team/Leadership
 * http://fullstart.com/knowledge/15-baseline-tech-skills-every-entrepreneur
