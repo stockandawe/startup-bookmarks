@@ -44,6 +44,9 @@ An active list of resources for building a better startup.
 * [How to find the right angel investors](http://hunterwalk.com/2015/01/20/the-10x-angel-the-0x-angel/)
 * [To bootstrap or not?](http://techcrunch.com/2015/06/24/to-bootstrap-or-not/)
 
+### User Research
+*[User research](https://userresearch.blog.gov.uk/2015/03/18/so-youre-going-to-be-a-user-researcher-top-tips-to-get-you-going/)
+
 ### Design
 * http://firstround.com/article/The-Simple-Four-Step-Design-Process-for-Building-Product-Customers-Will-Love
 * http://littlebigdetails.com
@@ -101,9 +104,11 @@ An active list of resources for building a better startup.
     * http://uinames.com
   * Find all APIs you need - http://apis.io/
 * [Scalable Web App on AWS](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed)
+* [Free Live Chat](https://www.tawk.to/)
 
 ### Marketing
 * [Statup Marketing Template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
+* [Product Hunt collection of products to grow your business or side project](http://www.producthunt.com/e/tools-for-marketers-growth-hackers)
 * http://www.growtheverywhere.com/the-beginners-guide-to-becoming-a-full-stack-marketer/
 * [How Coin did a massively successful launch](http://danielodio.com/dissecting-coins-massively-successful-product-launch)
 * [Content Marketing](http://www.slideshare.net/randfish/why-content-marketing-fails)
@@ -118,6 +123,7 @@ An active list of resources for building a better startup.
 * Email Marketing
   * http://reallygoodemails.com
   * https://www.sendwithus.com/resources/guide/
+* [T-shirt Marketing](https://medium.com/art-marketing/your-4-t-shirt-is-costing-you-millions-829bf4a7e440)
 
 ### Sales
 * [Sales Efficiency Benchmarks](http://tomtunguz.com/magic-numbers)
@@ -133,6 +139,7 @@ An active list of resources for building a better startup.
 ### Product Management
 * https://medium.com/the-year-of-the-looking-glass/6c975dede146
 * http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/
+* [Good Product Manager/Bad Product Manager]http://a16z.com/2012/06/15/good-product-managerbad-product-manager/
 
 ### Company & Culture
 * [10 rules for web startups](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
