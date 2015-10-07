@@ -76,6 +76,7 @@ An active list of resources for building a better startup.
 * http://cssfontstack.com
 * https://placeit.net
 * http://www.gomoodboard.com/
+* [All bootstrap themes in one place](http://themefindr.net/)
 
 ### Usability Testing
 * http://usabilityhub.com
@@ -142,6 +143,8 @@ An active list of resources for building a better startup.
 * http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/
 * [Good Product Manager/Bad Product Manager](http://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
 * [How to not suck at managing products](https://medium.com/art-of-product-design/how-to-not-suck-at-making-products-1ca875fe98a0)
+* [Taste and The Zen of GitHub](http://warpspire.com/posts/taste/)
+* [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
 
 ### Company & Culture
 * [10 rules for web startups](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
@@ -149,11 +152,13 @@ An active list of resources for building a better startup.
 * http://www.paulgraham.com/growth.html
 * http://justinkan.com/the-founders-guide-to-selling-your-company
 * [Five years, building a culture, and handing it off](https://medium.com/@kellan/five-years-building-a-culture-and-handing-it-off-54a38c3ab8de)
+* [Momentum is everything in a startup](http://blog.samaltman.com/the-post-yc-slump)
 
 ### Team/Leadership
 * http://fullstart.com/knowledge/15-baseline-tech-skills-every-entrepreneur
 * [Get the Most Out of Your Startup's Advisors](http://firstround.com/article/Get-the-Most-Out-of-Your-Startups-Advisors-with-These-7-Tactics)
 * [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
+* Don't make these basic mistakes(http://us5.campaign-archive1.com/?u=ca6ae38471d227b05e07a47e9&id=03e5219bbe&e=d7f3f19e61)
 
 ### Hiring
 * [How to hire and build a remote team](https://zapier.com/blog/how-to-hire-remote-team)
