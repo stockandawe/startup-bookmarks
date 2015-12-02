@@ -6,7 +6,9 @@ An active list of resources for building a better startup.
 * [Get Inspired by Ira Glass](http://vimeo.com/24715531)
 * [All the startup advice you need to get started](http://blog.samaltman.com/startup-advice-briefly)
 * [The ultimate cheat sheet to starting and running your own business](http://www.jamesaltucher.com/2013/08/the-ultimate-cheat-sheet-to-starting-and-running-your-own-business/)
+* [What are good ideas and how to generate them](http://www.tillett.info/2015/08/30/ideas-are-not-cheap/)
 * Tools/Tactics to getting started:
+  * [How to name your startup](http://thisweekinstartups.com/name-startup-wsgr-startup-basics/)
   * [Silicon Valley 101](https://medium.com/@Tradecraft/silicon-valley-101-24346f95fd1a)
   * [Panabee](http://www.panabee.com) - Super useful service to find and register for domain names
   * [Domain name generator](http://impossibility.org)
@@ -77,6 +79,7 @@ An active list of resources for building a better startup.
 * https://placeit.net
 * http://www.gomoodboard.com/
 * [All bootstrap themes in one place](http://themefindr.net/)
+* [Landing page inspirations](http://www.landingfolio.com/)
 
 ### Usability Testing
 * http://usabilityhub.com
