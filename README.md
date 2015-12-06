@@ -156,6 +156,7 @@ An active list of resources for building a better startup.
 * http://justinkan.com/the-founders-guide-to-selling-your-company
 * [Five years, building a culture, and handing it off](https://medium.com/@kellan/five-years-building-a-culture-and-handing-it-off-54a38c3ab8de)
 * [Momentum is everything in a startup](http://blog.samaltman.com/the-post-yc-slump)
+* [Clef's open source employee handbook](https://github.com/clef/handbook)
 
 ### Team/Leadership
 * http://fullstart.com/knowledge/15-baseline-tech-skills-every-entrepreneur
@@ -168,6 +169,9 @@ An active list of resources for building a better startup.
 * [Essay on qualities to look for in a senior technical engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [Startup Salary & Equity Compensation tool](https://www.wealthfront.com/tools/startup-salary-equity-compensation)
 * [A system for startup compensation](http://firstround.com/review/A-Counterintuitive-System-for-Startup-Compensation/)
+
+### Understanding Equity
+* [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
 
 ### Legal
 * [Hiring a Startup Lawyer](http://adlervermillion.com/tech-law-link-list-hiring-lawyers/)
