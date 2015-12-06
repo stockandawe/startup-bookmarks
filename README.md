@@ -156,18 +156,22 @@ An active list of resources for building a better startup.
 * http://justinkan.com/the-founders-guide-to-selling-your-company
 * [Five years, building a culture, and handing it off](https://medium.com/@kellan/five-years-building-a-culture-and-handing-it-off-54a38c3ab8de)
 * [Momentum is everything in a startup](http://blog.samaltman.com/the-post-yc-slump)
+* [Clef's open source employee handbook](https://github.com/clef/handbook)
 
 ### Team/Leadership
 * http://fullstart.com/knowledge/15-baseline-tech-skills-every-entrepreneur
 * [Get the Most Out of Your Startup's Advisors](http://firstround.com/article/Get-the-Most-Out-of-Your-Startups-Advisors-with-These-7-Tactics)
 * [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
-* Don't make these basic mistakes(http://us5.campaign-archive1.com/?u=ca6ae38471d227b05e07a47e9&id=03e5219bbe&e=d7f3f19e61)
+* [Don't make these basic mistakes](http://us5.campaign-archive1.com/?u=ca6ae38471d227b05e07a47e9&id=03e5219bbe&e=d7f3f19e61)
 
 ### Hiring
 * [How to hire and build a remote team](https://zapier.com/blog/how-to-hire-remote-team)
 * [Essay on qualities to look for in a senior technical engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 * [Startup Salary & Equity Compensation tool](https://www.wealthfront.com/tools/startup-salary-equity-compensation)
 * [A system for startup compensation](http://firstround.com/review/A-Counterintuitive-System-for-Startup-Compensation/)
+
+### Understanding Equity
+* [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
 
 ### Legal
 * [Hiring a Startup Lawyer](http://adlervermillion.com/tech-law-link-list-hiring-lawyers/)
