@@ -5,6 +5,7 @@ An active list of resources for building a better startup.
 ### Get Started
 * [Get Inspired by Ira Glass](http://vimeo.com/24715531)
 * [All the startup advice you need to get started](http://blog.samaltman.com/startup-advice-briefly)
+* [How to validate if your idea is worth pursuing](https://hitenism.com/business-ideas/)
 * [The ultimate cheat sheet to starting and running your own business](http://www.jamesaltucher.com/2013/08/the-ultimate-cheat-sheet-to-starting-and-running-your-own-business/)
 * [What are good ideas and how to generate them](http://www.tillett.info/2015/08/30/ideas-are-not-cheap/)
 * Tools/Tactics to getting started:
@@ -20,6 +21,7 @@ An active list of resources for building a better startup.
   * [When in doubt, bootstrap](http://www.bootstrappers.io/)
   * [300 free things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b)
   * [Code4Startup - learn how to build simple/useful things for your startup idea](https://code4startup.com)
+  * [Free logos - New logo designs, free to use, added every week](http://logodust.com/)
 
 ### Product
 * [Million Dollar Products](http://warpspire.com/posts/million-dollar-products/)
@@ -69,6 +71,7 @@ An active list of resources for building a better startup.
   * http://niice.co
   * http://app.itize.us
   * http://useyourinterface.com/
+  * http://inspirationui.com/
 * [Curated resources for everything design](http://oozled.com)
 * http://heydesigner.com/
 * http://webfieldmanual.com
@@ -102,6 +105,7 @@ An active list of resources for building a better startup.
     * [Free Bootstrap Themes & Templates](http://startbootstrap.com)
     * [Tons of Bootstrap themes, etc](http://www.bootbundle.com/)
     * [Bootstrap Zero](http://bootstrapzero.com/)
+    * [Bootstrap Studio](https://bootstrapstudio.io/)
   * http://beta.caniuse.com/
   * http://builtwith.com
   * Responsive
@@ -110,6 +114,7 @@ An active list of resources for building a better startup.
   * Find all APIs you need - http://apis.io/
 * [Scalable Web App on AWS](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed)
 * [Free Live Chat](https://www.tawk.to/)
+* [Get free SSL cert](https://gethttpsforfree.com/)
 
 ### Marketing
 * [Statup Marketing Template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
