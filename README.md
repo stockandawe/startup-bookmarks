@@ -117,11 +117,12 @@ An active list of resources for building a better startup.
 * [Get free SSL cert](https://gethttpsforfree.com/)
 
 ### Marketing
-* [Statup Marketing Template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
+* [Startup Marketing Template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
 * [Product Hunt collection of products to grow your business or side project](http://www.producthunt.com/e/tools-for-marketers-growth-hackers)
 * http://www.growtheverywhere.com/the-beginners-guide-to-becoming-a-full-stack-marketer/
 * [How Coin did a massively successful launch](http://danielodio.com/dissecting-coins-massively-successful-product-launch)
 * [Content Marketing](http://www.slideshare.net/randfish/why-content-marketing-fails)
+* [Complete Guide to Product Qualified Leads](https://get.hull.io/complete-guide-pqls/chapter1/)
 * Copywriting:
   * http://blog.kissmetrics.com/power-of-mini-stories/
   * [Welcome emails](http://grasshopper.com/blog/how-to-craft-the-perfect-welcome-email-plus-templates/)
@@ -138,6 +139,7 @@ An active list of resources for building a better startup.
 ### Sales
 * [Sales Efficiency Benchmarks](http://tomtunguz.com/magic-numbers)
 * [Ultimate enterprise startup sales guide](http://www.enterprisesales.nyc/)
+* [Finding Sales Triggers: How DigitalOcean closes more enterprise deals with automated sales triggers])https://clearbit.com/books/data-driven-sales/sales-triggers)
 
 ### Growth
 * http://blog.yesgraph.com/post/63562259689/first-1000
